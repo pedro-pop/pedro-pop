@@ -10,12 +10,6 @@
 
 ---
 
-## `whoami`
-
-Sou estudante de **Análise e Desenvolvimento de Sistemas na UNAMA**, desenvolvendo projetos práticos e aprofundando meus conhecimentos em programação.
-
-Tenho interesse em desenvolvimento web, backend, bancos de dados e cibersegurança. Meu objetivo é transformar o que aprendo em aplicações reais e continuar evoluindo como desenvolvedor.
-
 ## `tech_stack`
 
 <div align="center">
@@ -63,6 +57,9 @@ Projeto relacionado ao desenvolvimento de uma aplicação bancária durante a gr
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=pedro-pop&show_icons=true&hide_border=true&bg_color=0D1117&title_color=7DF9FF&text_color=C9D1D9&icon_color=B794F4&locale=pt-br" alt="Estatísticas do GitHub">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-pop&layout=compact&hide_border=true&bg_color=0D1117&title_color=7DF9FF&text_color=C9D1D9&langs_count=6" alt="Linguagens dos repositórios">
+
+
+<img src="https://streak-stats.demolab.com?user=pedro-pop&theme=transparent&hide_border=true&ring=7DF9FF&fire=B794F4&currStreakLabel=7DF9FF&sideLabels=C9D1D9&dates=8B949E" alt="Sequência de atividade no GitHub">
 
 </div>
 
