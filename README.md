@@ -5,7 +5,7 @@
 
 </div>
 
-<img align="right" src="./assets/avatar.png" width="125" alt="Pedro Andrade" style="border-radius: 18px;">
+<img align="right" src="https://github.com/user-attachments/assets/58a86ffa-70a3-49ec-a1a8-9ba539c0033d" width="110" alt="Pedro Andrade">
 
 **Estudante de Análise e Desenvolvimento de Sistemas.**
 
@@ -32,10 +32,6 @@ Desenvolvimento de software, projetos pessoais e tecnologia.
 ### `github_stats`
 
 <div align="center">
-
-<img height="145" src="https://github-readme-stats.vercel.app/api?username=pedro-pop&show_icons=true&hide_border=true&bg_color=0D1117&title_color=7DF9FF&text_color=C9D1D9&icon_color=B794F4&locale=pt-br">
-
-<img height="145" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-pop&layout=compact&hide_border=true&bg_color=0D1117&title_color=7DF9FF&text_color=C9D1D9&langs_count=5">
 
 </div>
 
